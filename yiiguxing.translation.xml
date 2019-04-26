@@ -3,8 +3,9 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="11" />
-        <entry key="RUSSIAN" value="13" />
-        <entry key="ROMANIAN" value="2" />
+        <entry key="RUSSIAN" value="14" />
+        <entry key="ROMANIAN" value="3" />
+        <entry key="UKRAINIAN" value="1" />
       </map>
     </option>
   </component>
