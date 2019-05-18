@@ -5,6 +5,7 @@
       <mapping pattern="dev_env" type="PLAIN_TEXT" />
       <mapping ext="place_order_list" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping pattern="object" type="Python" />
     </extensionMap>
   </component>
 </application>
